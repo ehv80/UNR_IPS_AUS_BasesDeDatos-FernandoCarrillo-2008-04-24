@@ -1,0 +1,23 @@
+24 de abril de 2008 13:39
+
+Les adjunto los archivos que les he entregado ayer y un tutorial de Oracle que está bastante bueno pero que, lamentablemente, está en inglés.
+
+Con respecto al tutorial, les comento, lo que a opinión personal, esta bueno y malo.
+Lo bueno:
+   .) abarca muchos temas explicándolos claramente. Tener en cuenta que este tutorial es solamente para una referencia rápida sobre Oracle SQL y de ninguna manera sirve para profundizar en el tema.
+   .) utiliza como tablas y datos de ejemplos los que hemos visto en clase (tengan en cuenta que el script que genera las tablas de ejemplo junto con sus datos viene en todas las versiones de Oracle bajo cualquier plataforma y son similares al que hemos corrido en clase)
+
+Lo malo:
+    .) no se hace referencia a las novedades incorporadas al SQL en las últimas versiones de Oracle
+    .) no menciona la configuración del entorno de la sesión SQL (esto es el seteo de las variables del sistema operativo, como ser por ej. las variables NLS o las variables TWO_TASK u ORACLE_SID). Sin embargo sobre tema les he enviado otro documento y lo seguiremos viendo más en profundidad.
+
+
+Comentarios:
+    .) no tiene importancia el hecho que en ciertos puntos se haga referencia a Oracle 7, ya que los conceptos son los mismos hasta la última versión Oracle disponible en el mercado y los ejemplos pueden correr en cualquier versión y/o plataforma
+    .) el punto 4 (Application Programming) y el 5.2 (Triggers) son temas que no serán tenidos en cuenta dentro de la materia (entiéndase por esto que no son temas de exámen). Sin embargo, como sé que son de interés para varios, más adelante les llevaré ejemplos ya hechos y funcionando.
+    .) el punto 6 es muy interesante y es un breve resumen de toda la estructura Oracle a nivel físico y logico, recomiendo darle una rápida lectura
+
+       Saludos y espero que les sirva.
+
+                              Fernando
+
